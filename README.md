@@ -7,5 +7,7 @@
 # 需準備材料
 
 Arduino uno
+
 rfid感應模組
+
 伺服馬達
