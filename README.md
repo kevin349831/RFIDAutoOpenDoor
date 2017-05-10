@@ -1,15 +1,16 @@
 # RFIDAutoOpenDoor
 
-先安裝rfid-master的Library
+You need install the rfid-master Library at first
 
-在使用rfid.info將程式碼傳到Arduino上
+Using rdid.info in your Code and Upload to your Arduino Board
 
-13 int UserID[] = { * , * , * , * , * , * , * , * , * , * , * , * }; 此處 * 為感應ID
+note:
+13 int UserID[] = { * , * , * , * , * , * , * , * , * , * , * , * }; this * is your RFID's ID
 
-# 需準備材料
+# Need to prepare materials
 
-Arduino uno
+Arduino uno * 1
 
-rfid感應模組
+RFID module * 1
 
-伺服馬達
+Server Motor * 1
