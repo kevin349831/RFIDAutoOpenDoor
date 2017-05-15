@@ -21,7 +21,7 @@ void setup() {
   pinMode(ledPin,OUTPUT);
 
   myservo.attach(7); // 修正脈衝寬度範圍
-  myservo.write(50); // 一開始先置中90度
+  myservo.write(50); // 一開始先置中50度
   delay(3000);
 }
 
